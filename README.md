@@ -1,3 +1,3 @@
 # Notepad
 
-This ia my writing space. 
+This is my writing space. 
